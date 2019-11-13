@@ -1,0 +1,52 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Slabo 27px', serif;
+}
+p, div {
+    font-family: 'Slabo 27px', serif;
+}
+
+p {
+    font-size: 2em;
+}
+
+p.title {
+    font-family: 'Slabo 27px', serif;
+    font-size: 3em;
+}
+
+.vcenter {
+    vertical-align: middle;
+}
+
+.cover-img {
+    align-items: stretch;
+}
+
+.flex {
+    display: flex;
+}
+
+outer{
+    display: table;
+    table-layout: fixed;
+}
+
+.inner {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.header {
+    margin-top: 2em;
+    font-size: 3em;
+}
+
+.project-margin {
+    margin-top: 3em;
+}
+
+.outermost {
+    margin-left: 15%;
+    margin-right: 15%;
+}

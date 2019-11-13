@@ -1,0 +1,19 @@
+{
+    "Projects": [
+        {
+            "name": "Golang Recipes",
+            "link": "http://golang.recipes",
+            "description": "A list of recipes in Go."
+        },
+        {
+            "name": "Devposts.io",
+            "link": "http://devposts.io",
+            "description": "A blog for the little things I always have to Google."
+        },
+        {
+            "name": "By Land, Air, Sea, and WiFi",
+            "link": "http://travel.coreyprak.com",
+            "description": "My personal travel blog"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+<!-- JQuery -->
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- index.css -->
+<link href="index.css" rel="stylesheet">
+
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51333350-1', 'prak.me');
+  ga('send', 'pageview');
+</script>  
+
+<!-- Roboto Google Font Import -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,500' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div class="filler">
+  <div class="container">
+
+    <div class="row text-center">
+	  <b><p class="main-text"> Here to see my work in the Go programming language? Check out the CV <a href="./golang">here.</a><p></b>
+
+	  <b><p class="main-text"> Questions about Computer Science and/or career development? I can help. <a href="mailto:corey@prak.me">Email Me</a> and let's talk.<p></b>
+</div>
+
+    <div class="row">
+      <div> <img class="col-xs-10 col-xs-offset-1" src="logo.png"></div>
+    </div>
+
+    <div class = "row">
+    <div class="text-center">
+	    <a href="mailto:corey@prak.me"><i class="icon fa fa-envelope-square fa-4x" aria-hidden="true"></i></a>
+	    <a href="http://twitter.com/coreyprak"><i class="icon fa fa-twitter-square fa-4x"></i></a>      
+	    <a href="http://www.reddit.com/u/Xercoy"> <i class="icon fa fa-reddit-square fa-4x"></i></a>	    
+	    <a href="http://github.com/Xercoy"> <i class="icon fa fa-github-square fa-4x"></i></a>      	    
+	    <a href="http://instagram.com/prakattak"><i class="icon fa fa-instagram fa-4x" aria-hidden="true"></i></a>
+	    <a href="http://www.linkedin.com/pub/corey-prak/69/954/714/"> <i class="icon fa fa-linkedin-square fa-4x"></i></a>	
+<!--	    <a href="http://stackoverflow.com/users/6430542/xercoy"><i class="icon fa fa-stack-overflow fa-4x" aria-hidden="true"></i>--></a>
+    </div>
+    </div>
+
+    <div class="row info-row">
+<!--      <div class="col-xs-12 col-lg-offset-1 col-lg-4 main-text"> -->
+ 
+<!--
+     <div class="col-xs-12 hidden-lg hidden-md hidden-sm center-text">
+	<p class="text-header"> Hi! I'm Corey Prak. </p>
+      </div>
+-->
+
+      <div class="col-xs-6 col-xs-offset-3 hidden-lg hidden-md center-text hidden-sm photo-div">
+	<img class="img-rounded img-responsive" src="http://img.photobucket.com/albums/v180/dongbangshiki/FullSizeRender_zpsjlqm41zi.jpg">
+      </div>
+ 
+      <div class="col-sm-6 col-lg-6 col-md-6 col-xs-8 col-xs-offset-2 col-sm-offset-0 col-md-offset-0 hidden-xs">
+	<div class="main-text">
+	  
+	  <p class="main-text">
+	    Software Developer, doggie papa, serial traveler, canyoneer, and climber of rocks. My office is anywhere with decent WiFi.
+<br ><br>
+	    Lifelong New Englander. I moved to California in April 2016 and have since aspired to see the outdoors of California and beyond while improving my skills in creating, editing, and producing pictures and video. 
+	  </p>
+	   
+	  <p class="main-text">
+	    I write quite a bit. The nerdiest of all my blogs is <a href="http://learngowith.me">Go</a>, my programming language of choice. I have another blog about things I learn in tech <a href="http://devposts.io">here</a>. Aside from the nerdy stuff, you can read a blog about <a href="http://sixtysecondadventures.blog">my travels</a>, or my personal blog, <a href="http://blog.coreyprak.org/">"Rants, Raves, and All of the Above"</a>.
+	  </p>
+
+	  <p class="main-text">
+	    I'm also very interested in using my experience to help others. If you're interested in becoming a developer or have any questions related to the field, reach out!
+	  </p>
+
+
+	  <p class="main-text">
+	    If you're around California and would like to share an adventure, definitely hit me up too. I need drone pilot practice and you can get some pretty gnarly footage.
+	  </p>
+	  
+<!---
+          <p class="main-text">
+	    Since April 2016, I completed a roadtrip/move from Boston to California and spent a month in the Philippines. I'm hoping to spend the summer exploring as much of California as I can.
+	  </p>-->
+	  
+	</div>
+      </div>
+
+      <div class="col-lg-6 col-md-6 hidden-xs col-sm-6 my-auto">
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bie2bmLH8Im/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:35.23148148148148% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bie2bmLH8Im/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Corey Prak (@prakattak)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-05-07T15:56:29+00:00">May 7, 2018 at 8:56am PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+
+<!--
+	<img class="img-rounded img-responsive " src="http://img.photobucket.com/albums/v180/dongbangshiki/FullSizeRender_zpsjlqm41zi.jpg"> -->
+<!--
+	<div class="icons center-text col-sm-8 col-sm-offset-2 hidden-xs hidden-md hidden-lg">	    
+	  <p class="main-text">
+	    Elsewhere on the Interwebs:
+	  </p>
+	  
+	  <a href="mailto:corey@prak.me"><i class="fa fa-envelope-square fa-4x" aria-hidden="true"></i></a>
+	  <a href="http://twitter.com/coreyprak"><i class="fa fa-twitter-square fa-4x"></i></a>      
+	  <a href="http://www.reddit.com/u/Xercoy"> <i class="fa fa-reddit-square fa-4x"></i></a>	    
+	  <a href="http://github.com/Xercoy"> <i class="fa fa-github-square fa-4x"></i></a>      	    
+	  <a href="http://instagram.com/prakattak"><i class="fa fa-instagram fa-4x" aria-hidden="true"></i></a>
+	  <a href="http://www.linkedin.com/pub/corey-prak/69/954/714/"> <i class="fa fa-linkedin-square fa-4x"></i></a>	
+	  <a href="http://stackoverflow.com/users/6430542/xercoy"><i class="fa fa-stack-overflow fa-4x" aria-hidden="true"></i></a>  
+	</div>	  
+-->	
+	
+      </div>
+
+    </div>
+  </div>
+</div>    
+</body>
+
+</html>

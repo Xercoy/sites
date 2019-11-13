@@ -1,0 +1,53 @@
+.fa-stack-overflow.fa-4x {
+  position: relative;
+  top: -.1em;
+  padding: .1em;
+  font-size: 3em;
+  color: #eee;
+  background: #000;
+  border-radius: 0.2em;
+  width: 1.2em;
+  text-align: center;
+}
+
+.fa-stack-overflow.fa-4x: hover {
+    background: #3374C2;
+}
+
+.filler {
+    margin-top: 3%
+}
+
+.info-row {
+    height:100%;
+}
+
+.center-text{
+    text-align:center;
+}
+
+.text-header {
+  font-family: 'Roboto', sans-serif;
+  font-size: 250%;
+}
+
+.main-text {
+  font-size: 1.2em;
+}
+
+a {
+    color: black;
+    text-decoration: underline!important;
+}
+
+.icon {
+   padding: 1%;
+}
+
+p.main-text {
+    margin-top: 1em;
+}
+
+.photo-div {
+    height:100%;
+}
